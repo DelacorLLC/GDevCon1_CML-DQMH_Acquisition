@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="17008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*2!!!*Q(C=\&gt;5`4BN"&amp;-@R(V'+N#\42::354\Z"L[##S\QLO!WJ@O!IH=!#HQ&amp;&amp;Z1U\QKOENIH7$(Z\PBB7V'%1!)52=TM,0:PZ]_(W772?PEE@62\6DH`MZ$&gt;(EO\/.^X/JT'[\XO$Y,^]@$J98R&gt;P[DU?+LR.@^R6+M?L=VGMR.@;]&gt;&amp;KO@@X#@_RYP?SXPZP]OXJ`TFPS\B4//,C*;UI$H..#\&lt;EDT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)?S58O=B&amp;$CF:0&amp;EIG43:)/E-2=EJ]33?R*.Y_+L%EXA34_**0(22YEE]C3@R*"['+@%EHM34?")05X6*^EK/*`%QP1*0Y!E]A3@QM+1#4Q!)&amp;AMG$C;"I?"C]#(Q"*\!QU=&amp;HM!4?!*0Y/'S!E`A#4S"*`!QJ/^+&gt;-V9S@%QD2S0YX%]DM@R-,5=D_.R0)\(]&lt;#=()`D=2$/AM\E%/1-=DIY8RS0Y_'(()`D=4S/R`&amp;QK&gt;]B\TMT;M:+DM@Q'"\$9XA-$V0)]"A?QW.Y$!`4SP!9(M.D?!Q03]HQ'"\$9U#-26F?RG4'1+/4%2A?DP[U7,^,U387KV10L_KB6$VMKI&gt;)^8#I&lt;LLK:KJOEGLT6:OKWCT6*KB_/26;B6%NIBI]&gt;N3/]Z;WI;VJ+^K3NK$.;60;:"T[QBVXOZWWW[UWGYX7[\67KZ77S[57CY8G]\GGU[EGE]HB.@#&amp;?HABV(NJU&amp;G\``GZ$&gt;_`NPP,[T&lt;]O,E&lt;@FU.^(G$`]``Q,N2(X3["HPU'R'@D[9!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+<Library LVVersion="14008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*2!!!*Q(C=\&gt;5`4BN"&amp;-@R(V'+N#\42::354\Z"L[##S\QLO!WJ@O!IH=!#HQ&amp;&amp;Z1U\QKOENIH7$(Z\PBB7V'%1!)52=TM,0:PZ]_(W772?PEE@62\6DH`MZ$&gt;(EO\/.^X/JT'[\XO$Y,^]@$J98R&gt;P[DU?+LR.@^R6+M?L=VGMR.@;]&gt;&amp;KO@@X#@_RYP?SXPZP]OXJ`TFPS\B4//,C*;UI$H..#\&lt;EDT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)?S58O=B&amp;$CF:0&amp;EIG43:)/E-2=EJ]33?R*.Y_+L%EXA34_**0(22YEE]C3@R*"['+@%EHM34?")05X6*^EK/*`%QP1*0Y!E]A3@QM+1#4Q!)&amp;AMG$C;"I?"C]#(Q"*\!QU=&amp;HM!4?!*0Y/'S!E`A#4S"*`!QJ/^+&gt;-V9S@%QD2S0YX%]DM@R-,5=D_.R0)\(]&lt;#=()`D=2$/AM\E%/1-=DIY8RS0Y_'(()`D=4S/R`&amp;QK&gt;]B\TMT;M:+DM@Q'"\$9XA-$V0)]"A?QW.Y$!`4SP!9(M.D?!Q03]HQ'"\$9U#-26F?RG4'1+/4%2A?DP[U7,^,U387KV10L_KB6$VMKI&gt;)^8#I&lt;LLK:KJOEGLT6:OKWCT6*KB_/26;B6%NIBI]&gt;N3/]Z;WI;VJ+^K3NK$.;60;:"T[QBVXOZWWW[UWGYX7[\67KZ77S[57CY8G]\GGU[EGE]HB.@#&amp;?HABV(NJU&amp;G\``GZ$&gt;_`NPP,[T&lt;]O,E&lt;@FU.^(G$`]``Q,N2(X3["HPU'R'@D[9!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -18,12 +18,12 @@
 				<Item Name="Show Panel Argument--cluster.ctl" Type="VI" URL="../Show Panel Argument--cluster.ctl"/>
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
-				<Item Name="Start Acquiring Argument--cluster.ctl" Type="VI" URL="../Start Acquiring Argument--cluster.ctl"/>
-				<Item Name="Start Acquiring (Reply Payload)--cluster.ctl" Type="VI" URL="../Start Acquiring (Reply Payload)--cluster.ctl"/>
 				<Item Name="Stop Acquiring Argument--cluster.ctl" Type="VI" URL="../Stop Acquiring Argument--cluster.ctl"/>
 				<Item Name="Wakeup Helper Loop Argument--cluster.ctl" Type="VI" URL="../Wakeup Helper Loop Argument--cluster.ctl"/>
 				<Item Name="Change Settings Argument--cluster.ctl" Type="VI" URL="../Change Settings Argument--cluster.ctl"/>
 				<Item Name="Calibrate DAQ Argument--cluster.ctl" Type="VI" URL="../Calibrate DAQ Argument--cluster.ctl"/>
+				<Item Name="Start Acquiring Argument--cluster.ctl" Type="VI" URL="../Start Acquiring Argument--cluster.ctl"/>
+				<Item Name="Start Acquiring (Reply Payload)--cluster.ctl" Type="VI" URL="../Start Acquiring (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -41,9 +41,9 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
-			<Item Name="Start Acquiring.vi" Type="VI" URL="../Start Acquiring.vi"/>
 			<Item Name="Stop Acquiring.vi" Type="VI" URL="../Stop Acquiring.vi"/>
 			<Item Name="Calibrate DAQ.vi" Type="VI" URL="../Calibrate DAQ.vi"/>
+			<Item Name="Start Acquiring.vi" Type="VI" URL="../Start Acquiring.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -111,6 +111,7 @@
 		<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
 		<Item Name="Generate Simulated Data.vi" Type="VI" URL="../Generate Simulated Data.vi"/>
 		<Item Name="Close Hardware References.vi" Type="VI" URL="../Close Hardware References.vi"/>
+		<Item Name="Apply Calibration.vi" Type="VI" URL="../Apply Calibration.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
